@@ -1,6 +1,8 @@
 # Zomato Project
 
-This is a basic data analysis project using the Zomato dataset. It covers some simple insights like how restaurants are rated, where they're located, what kind of food they serve, and whether they offer online ordering.
+## About
+
+This project was created by Syed Ateeb Fatmi as a part of personal learning. It’s a hands-on attempt to apply Python skills to real-world data and explore trends in the food and restaurant industry. Suggestions and feedback are always welcome.
 
 ## Files in the Project
 

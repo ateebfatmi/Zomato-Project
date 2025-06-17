@@ -21,7 +21,3 @@ This is a basic data analysis project using the Zomato dataset. It covers some s
 
 ---
 
-## 🙋‍♂️ Author
-
-**Syed Ateeb Fatmi**  
-[GitHub Profile](https://github.com/ateebfatmi)
